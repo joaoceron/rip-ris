@@ -1,5 +1,6 @@
 usage: rip-ris.py [options]
 
+<pre>
 optional arguments:
   -h, --help            show this help message and exit
   -v, --version         print version and exit
@@ -11,6 +12,7 @@ optional arguments:
                         timestamp used in the search. Ex.: 1579686913
   --csv                 print output in CSV format
 
+</pre>
 Examples:
   # get the last prefix visibility on the system
   ./rip-ris.py -p 194.0.28.53/24  
