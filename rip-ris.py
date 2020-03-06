@@ -117,7 +117,7 @@ if (args.timestamp):
 
 print ("# {}".format(query_time))
 if (args.csv):
-    print(df.to_csv())
+    print(df.to_csv(index=False))
 else:
     print(df.to_string())
 
