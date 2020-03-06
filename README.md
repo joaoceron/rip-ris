@@ -27,7 +27,7 @@ optional arguments:
   ## Output:
   
   <pre>
-         peer      collector                                        as_path                                                                                                                                                                                                                                                             community
+    peer      collector                                        as_path                                                                                                                                                                                                                                                             community
 0    328474       AMS-RIPE                   [328474, 6939, 55195, 48283]                                                                                                                                                                                                                                                                    []
 1    131477       AMS-RIPE                         [131477, 55195, 48283]                                                                                                                                                                                                                                                         [19996:19996]
 2     55720       AMS-RIPE                    [55720, 4637, 55195, 48283]                                                                                                                                                                                                                                                                    []
