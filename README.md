@@ -13,11 +13,14 @@ optional arguments:
   --csv                 print output in CSV format
 
 </pre>
-Examples:
+
+## Examples:
+<pre>
   # get the last prefix visibility on the system
   ./rip-ris.py -p 194.0.28.53/24  
   # get prefix visibility in that particular timestamp
   ./rip-ris.py -p 194.0.28.53/24 -t 1579686913 
+  </pre>
   Output:
          peer      collector                                        as_path                                                                                                                                                                                                                                                             community
 0    328474       AMS-RIPE                   [328474, 6939, 55195, 48283]                                                                                                                                                                                                                                                                    []
